@@ -39,7 +39,8 @@ int gsaca_unsigned(const unsigned char *S, unsigned int *SA, unsigned int n);
 ## Performance
 GSACA currently performs quite poor compared to state of the art SACAs like 
 [libdivsufsort](https://github.com/y-256/libdivsufsort). Moreover, this is
-an implementation of a SACA for proving its simplicity.
+an implementation of a SACA for proving its simplicity. However, a little
+benchmark suite is included for comparing GSACA against common other SACAs.
 
 ## License
 libdivsufsort is released under the [MIT license](LICENSE "MIT license").
