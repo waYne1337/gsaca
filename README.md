@@ -43,7 +43,7 @@ an implementation of a SACA for proving its simplicity. However, a little
 benchmark suite is included for comparing GSACA against common other SACAs.
 
 ## License
-libdivsufsort is released under the [MIT license](LICENSE "MIT license").
+gsaca is released under the [MIT license](LICENSE "MIT license").
 > The MIT License (MIT)
 >
 > Copyright (c) 2015 Uwe Baier All Rights Reserved.
